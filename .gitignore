@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Ignore Executables without extentions
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
